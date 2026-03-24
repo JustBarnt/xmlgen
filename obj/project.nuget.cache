@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6RMKwRrOHs=",
+  "success": true,
+  "projectFilePath": "D:\\CommSys\\Tools\\xmlgen\\xmlgen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bwilliams\\.nuget\\packages\\system.commandline\\2.0.5\\system.commandline.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
